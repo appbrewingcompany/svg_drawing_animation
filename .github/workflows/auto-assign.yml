@@ -9,3 +9,4 @@ jobs:
     uses: appbrewingcompany/.github/.github/workflows/auto-assign-reviewer.yml@main
     permissions:
       pull-requests: write
+      contents: read
